@@ -6,6 +6,8 @@
 
 42 school's net_practice project is an introduction to IP addressing, subnet masks and routing. In a training interface, we must solve networking errors over 10 levels.
 
+> This project has been archived in the state it was in at the time of evaluation.
+
 ---
 
 :us: Read my articles in English about the concepts tackled in this project: 
